@@ -1,3 +1,5 @@
+![Banner](https://github.com/user-attachments/assets/9f816d0c-3345-4b4e-88f8-539543ef0d5e)
+
 # 🎓 JagoScript | Mastering Digital Solutions
 Welcome to JagoScript, where innovation meets functionality! 🚀
 
@@ -14,9 +16,13 @@ From concept to launch, we craft modern, responsive websites tailored to your ne
 At JagoScript, we embrace the latest technologies to build high-quality solutions:
 
 Languages: JavaScript
+
 Frameworks: React, Express
+
 Databases: MySQL, PostgreSQL
+
 Tools: Docker, GitHub Actions
+
 
 # 🌐 Our Vision
 To empower businesses and educational institutions with cutting-edge digital solutions that drive growth, efficiency, and learning.
@@ -24,13 +30,14 @@ To empower businesses and educational institutions with cutting-edge digital sol
 # 🤝 Join Us
 Are you passionate about web development or e-learning platforms? We’d love to collaborate!
 
+
 Contributors: Check out our repositories and open issues.
+
 Clients: Contact us for customized solutions at 📧 jagoscript@gmail.com.
+
 📣 Stay Connected
-💻 Website
+
 📧 Email: jagoscript@gmail.com.
-🐦 Twitter
-👔 LinkedIn
 
 Let’s create something amazing together! ✨
 
