@@ -15,7 +15,7 @@ From concept to launch, we craft modern, responsive websites tailored to your ne
 # 🛠️ Technologies We Use
 At JagoScript, we embrace the latest technologies to build high-quality solutions:
 
-Languages: JavaScript
+Languages: JavaScript, Python
 
 Frameworks: React, Express
 
